@@ -12,7 +12,7 @@ Sou estudante de Engenharia de Software, atualmente morando no Rio de Janeiro. E
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/gspinon/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaaaa" height="30" width="40" />
   </a>
 </p>
 
