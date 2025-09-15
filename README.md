@@ -8,10 +8,10 @@ Sou estudante de Engenharia de Software, atualmente morando no Rio de Janeiro. E
 
 <h3 align="left">📫 Entre em contato comigo:</h3>
 <p align="left">
-  <a href="mailto:seuemail@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto:guipinon97@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/seuusuario/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/gspinon/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40"/>
   </a>
 </p>
