@@ -19,11 +19,6 @@ Sou estudante de Engenharia de Software, atualmente morando no estado do Rio de 
 <img src="./foto_da_bonha.jpeg" width="350">
 *Essa é a Bonha! 🐾*
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gspinon&show_icons=true&theme=tokyonight)
-
-
 ## 📫 Entre em contato comigo:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guipinon97@gmail.com)](mailto:guipinon97@gmail.com)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gspinon)](https://github.com/gspinon)
