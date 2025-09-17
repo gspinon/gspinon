@@ -20,6 +20,6 @@ Sou estudante de Engenharia de Software, atualmente morando no estado do Rio de 
 *Essa é a Bonha! 🐾*
 
 ## 📫 Entre em contato comigo:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guipinon97@gmail.com)](mailto:guipinon97@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermepinon.dev@gmail.com)](mailto:guilhermepinon.dev@gmail.com)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/gspinon)](https://github.com/gspinon)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gspinon/)](https://www.linkedin.com/in/gspinon/)
